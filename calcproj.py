@@ -8,4 +8,4 @@ while True:
             calc=0.00
             print(calc)
         calc= str(eval(calc))
-        print(f'Resposta:            \033[36m{float(calc):8f}\033[m')
+        print(f'Resposta do cálculo:            \033[36m{float(calc):8f}\033[m')
